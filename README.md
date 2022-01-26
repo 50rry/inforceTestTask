@@ -6,6 +6,14 @@ Test task Book API
 ```bash
 $ npm install
 ```
+You should also create .env file with these fields:
+```
+DB_USERNAME=
+DB_PASS=
+DB_NAME=
+DB_HOST=
+PORT=
+```
 
 ## Running the app
 

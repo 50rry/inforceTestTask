@@ -47,5 +47,5 @@ Updates a books details in the database.
 
 #### DELETE /book/:bookId
 
-Deletes a book and it details (including cover image stored in filesystem if available).
+Deletes a book and it details
 
